@@ -56,6 +56,7 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     # custom users app
     'letsbook.users.apps.UsersConfig',
+    'letsbook.receipt',
     # Your stuff: custom apps go here
 ]
 
